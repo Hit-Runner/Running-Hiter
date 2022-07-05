@@ -1,6 +1,6 @@
 {
     "author": "DragonMaid(土豆)",
-    "description": "This is a sample book created by gitbook， and it's intended to teach Hiter in V专 how to run away",
+    "description": "This is a sample book created by gitbook�? and it's intended to teach Hiter in V�? how to run away",
     "extension": null,
     "generator": "site",
     "links": {
@@ -25,12 +25,12 @@
           "youtubex",
           "click-reveal",
           "auto-scroll-table",
-          "pageview-count",
-          "todo",
-          "ancre-navigation",
-          "flexible-alerts",
-          "js-sequence-diagram-full@>=0.3.1",
-          "mermaid"
+          "-pageview-count",
+          "-todo",
+          "-ancre-navigation",
+          "-flexible-alerts",
+          "-js-sequence-diagram-full@>=0.3.1",
+          "-mermaid"
         ],
     "pluginsConfig": {
       "hide-element": {
