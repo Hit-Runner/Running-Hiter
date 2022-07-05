@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [Part I](part1/README.md)
+* [Part I 本科就润](part1/README.md)
     * [思想动员](part1/思想动员.md)
     * [GPA和语言准备](part1/GPA和语言准备.md)
     * [择校](part1/择校.md)
