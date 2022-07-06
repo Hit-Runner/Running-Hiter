@@ -1,6 +1,7 @@
-#Summary
+# Introduction 引言
 
-* Introduction
+## 一不小心误入了哈工大(威海)怎么办？
 
-**Update from SamuraiY July 2,2022**
+### 别怕，文工团招生办负责把你骗进来，
 
+## 但是我们负责把你救出去！
