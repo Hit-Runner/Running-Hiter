@@ -11,3 +11,4 @@
 * [Part II](part2/README.md)
   * [We love feedback](part2/feedback\_please.md)
   * [Better tools for authors](part2/better\_tools.md)
+  * [鸣谢 Contributors](part2/鸣谢 Contributors.md)
