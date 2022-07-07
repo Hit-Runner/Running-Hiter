@@ -12,4 +12,4 @@
   * [We love feedback](part2/feedback\_please.md)
   * [Better tools for authors](part2/better\_tools.md)
   * [鸣谢 Contributors](part2/鸣谢Contributors.md)
-  * [friend_link其他相关手册](part2/friend_link其他相关手册.md)
+  * [Related_link其他相关手册](part2/Related_link其他相关手册.md)
