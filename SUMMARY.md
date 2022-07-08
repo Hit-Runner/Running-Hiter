@@ -19,5 +19,5 @@
   
 * [加入我们一起写作吧](Join_us/README.md)
   * [我们的联系方式](Join_us/Contact_us.md)
-  * [如何写Gitbook](Join_us/How_to_wirte_gitbook.md)
+  * [如何写Gitbook](Join_us/How_to_write_gitbook.md)
 
