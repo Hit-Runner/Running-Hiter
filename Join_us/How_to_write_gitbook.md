@@ -41,3 +41,5 @@
 3，另外需要注意的是，在插入图片时，尽量选择在gitbook界面插入，因为你在本地markdown中即使调整了图片的大小，在gitbook中还是统一的格式，这个格式有点小且别扭。在gitbook中插入图片可以更大一些(虽然也很别扭...
 
 ![](../.gitbook/assets/7.png)
+
+4, 其他写作方法，比如在本地写好然后git add .   ; git commit -m    "" ;git push origin HEAD:main 这些操作就比较需要熟悉git了 可以自己学习一下哦
