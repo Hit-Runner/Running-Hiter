@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction 引言](README.md)
+
 * [Part I 本科就润](part1/README.md)
   * [思想动员](part1/思想动员.md)
   * [GPA和语言准备](part1/GPA和语言准备.md)
@@ -8,8 +9,15 @@
   * [中介orDIY与申请时间线](part1/中介orDIY与申请时间线.md)
   * [等offer期间的心理](part1/等offer期间的心理.md)
   * [签证](part1/签证.md)
+  
 * [Part II](part2/README.md)
+  
   * [We love feedback](part2/feedback\_please.md)
   * [Better tools for authors](part2/better\_tools.md)
   * [鸣谢 Contributors](part2/鸣谢Contributors.md)
   * [Related_link其他相关手册](part2/Related_link其他相关手册.md)
+  
+* [加入我们一起写作吧](Join_us/README.md)
+  * [我们的联系方式](Join_us/Contact_us.md)
+  * [如何写Gitbook](Join_us/How_to_wirte_gitbook.md)
+
