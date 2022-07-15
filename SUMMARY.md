@@ -9,6 +9,8 @@
   * [中介orDIY与申请时间线](part1/中介orDIY与申请时间线.md)
   * [等offer期间的心理](part1/等offer期间的心理.md)
   * [签证](part1/签证.md)
+* [Part III 硕博系列访谈](part-iii-shuo-bo-xi-lie-fang-tan/README.md)
+  * [Y学长的半转码访谈](part-iii-shuo-bo-xi-lie-fang-tan/y-xue-chang-de-ban-zhuan-ma-fang-tan.md)
 * [Part II](part2/README.md)
   * [We love feedback](part2/feedback\_please.md)
   * [Better tools for authors](part2/better\_tools.md)
