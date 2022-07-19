@@ -22,9 +22,9 @@
   * [鸣谢 Contributors](part2/鸣谢Contributors.md)
   * [Related\_link其他相关手册](part2/Related\_link其他相关手册.md)
 
-* [Part IV:硕士项目推荐](part4_Friendly_Master's Program/README.md) 
+* [Part IV:硕士项目推荐](part4_Friendly_Master'sProgram/README.md) 
 
-  * [Program in USA](part4_Friendly_Master's Program/USA.md) 
+  * [Program in USA](part4_Friendly_Master'sProgram/USA.md) 
 
   
 
