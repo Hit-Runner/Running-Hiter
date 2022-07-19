@@ -21,18 +21,10 @@
   * [Better tools for authors](part2/better\_tools.md)
   * [鸣谢 Contributors](part2/鸣谢Contributors.md)
   * [Related\_link其他相关手册](part2/Related\_link其他相关手册.md)
-
-<<<<<<< HEAD
-* [Part IV:硕士项目推荐](part4_Friendly_Master'sProgram/README.md) 
-=======
 * [Part IV:金币-友好硕士项目推荐](part4_Friendly_Master'sProgram/README.md) 
->>>>>>> c90ee21a800eb9d61dd350ae88b1add179ff037b
+    * [Program in USA](part4_Friendly_Master'sProgram/USA.md) 
 
-  * [Program in USA](part4_Friendly_Master'sProgram/USA.md) 
-
-  
 
 * [加入我们一起写作吧](Join\_us/README.md)
-
   * [我们的联系方式](Join\_us/Contact\_us.md)
   * [如何写Gitbook](Join\_us/How\_to\_write\_gitbook.md)
