@@ -22,7 +22,11 @@
   * [鸣谢 Contributors](part2/鸣谢Contributors.md)
   * [Related\_link其他相关手册](part2/Related\_link其他相关手册.md)
 
+<<<<<<< HEAD
 * [Part IV:硕士项目推荐](part4_Friendly_Master'sProgram/README.md) 
+=======
+* [Part IV:金币-友好硕士项目推荐](part4_Friendly_Master'sProgram/README.md) 
+>>>>>>> c90ee21a800eb9d61dd350ae88b1add179ff037b
 
   * [Program in USA](part4_Friendly_Master'sProgram/USA.md) 
 
