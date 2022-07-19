@@ -1,3 +1,7 @@
-# 感谢一切为这个项目贡献自己时间的人！
-### Thanks  Yang for wiriting Part 1 and buying Domain Name
-### Thanks  Li for creating web pages
+# 鸣谢 Contributors
+
+#### Thanks Yang for wiriting Part 1 and buying Domain Name
+
+#### Thanks Li for creating web pages
+
+#### Thanks Y\*j\* Li for providing information for part4
