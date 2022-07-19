@@ -1,5 +1,6 @@
-# 我们的联系方式
+# 邮箱
 
-想要加入团队可以向calt2008lzx@gmail.com  or  SamuraiYoung@outlook.com发邮件
+想要加入团队可以向calt2008lzx@gmai.com发邮件
 
 或者qq联系1011412062
+
