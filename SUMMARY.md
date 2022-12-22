@@ -10,7 +10,7 @@
   * [签证](part1/签证.md)
 * [Part II 硕博系列访谈](part-iii-shuo-bo-xi-lie-fang-tan/README.md)
   * [Y学长的半转码访谈](part-iii-shuo-bo-xi-lie-fang-tan/y-xue-chang-de-ban-zhuan-ma-fang-tan.md)
-* [Part III](part2/README.md)
+* [Part III Feedback and Contributions](part2/README.md)
   * [We love feedback](part2/feedback\_please.md)
   * [Better tools for authors](part2/better\_tools.md)
   * [鸣谢 Contributors](part2/鸣谢Contributors.md)
