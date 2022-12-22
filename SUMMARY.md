@@ -18,6 +18,7 @@
 * [Part IV:金币-友好硕士项目推荐](part4\_Friendly\_Master'sProgram/README.md)
   * [Program in USA](part4\_Friendly\_Master'sProgram/USA.md)
 * [Part Ⅴ 暑研信息汇总](part-x.md)
+* [Part VI Working and Intern](part-vi-working-and-intern.md)
 * [加入我们一起写作吧](Join\_us/README.md)
   * [我们的联系方式](Join\_us/Contact\_us.md)
   * [如何写Gitbook](Join\_us/How\_to\_write\_gitbook.md)
