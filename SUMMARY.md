@@ -15,7 +15,7 @@
   * [Better tools for authors](part2/better\_tools.md)
   * [鸣谢 Contributors](part2/鸣谢Contributors.md)
   * [Related\_link其他相关手册](part2/Related\_link其他相关手册.md)
-* [Part IV:金币-友好硕士项目推荐](part4\_Friendly\_Master'sProgram/README.md)
+* [Part IV:Cheaper Master's Program](part4\_Friendly\_Master'sProgram/README.md)
   * [Program in USA](part4\_Friendly\_Master'sProgram/USA.md)
 * [Part Ⅴ 暑研信息汇总](part-x.md)
 * [Part VI Working and Intern](part-vi-working-and-intern.md)
