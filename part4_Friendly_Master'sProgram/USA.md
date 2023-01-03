@@ -1,8 +1,12 @@
 # Program in USA
 
-为什么
+为什么会有这一部分呢？ PP10043不存在吗? 这倒不是，但是确实可以通过一些方法来解决，参考
 
-申请难度梯度: [https://csmsapp.org/](https://csmsapp.org/)
+{% content-ref url="../part1/本科交流.md" %}
+[本科交流.md](../part1/本科交流.md)
+{% endcontent-ref %}
+
+## 整体申请难度梯度: [https://csmsapp.org/](https://csmsapp.org/)
 
 
 
