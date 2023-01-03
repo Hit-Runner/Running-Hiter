@@ -1,7 +1,2 @@
-# Part IV: Suggested Master's Program
+This part showcasing some friendly master's programs for poor or less prominent buddies
 
-
-
-这里给出硕士项目选择指南
-
-This part showcases some friendly master's programs&#x20;
