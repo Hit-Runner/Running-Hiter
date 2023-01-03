@@ -2,7 +2,7 @@
 
 #### Thanks to Yua\_zhu\_ Yang for wiriting Part 1、 Part 2 and buying Domain Name
 
-#### Thanks to Zh\_x\_ Li for creating web pages、wiriting Part I、II、IV
+#### Thanks to Zh\_x\_ Li for creating web pages、wiriting Part I、II、IV、加入我们一起写作吧
 
 #### Thanks to Zh\_ka\_ Zhao for writing part X
 
